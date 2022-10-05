@@ -34,3 +34,10 @@ var reverse = function (x) {
     }
   }
 }
+useEffect(() => {
+  first
+
+  return () => {
+    second
+  }
+}, [third])
